@@ -1,0 +1,28 @@
+BACA DULU !!!
+
+#############################################################
+#############################################################
+
+
+Langkah Instalasi dan Konfigurasi :
+
+- Install aplikasi pendukung
+1. Instalasi Debian
+2. Instalasi PostgreSQL
+3. Instalasi Apache
+4. Instalasi Java-Bridge
+
+- restore database dan aplikasi
+5. Restore database 
+6. copy aplikasi bphtb pada folder public_html
+
+
+
+
+#############################################################
+#############################################################
+
+T E R I M A _ K A S I H
+
+#############################################################
+#############################################################
